@@ -10,6 +10,8 @@ How to install
 
 If you find my configurations useful, you just need to copy the file I share as "home.vimrc.txt" to your home folder with the name ".vimrc".
 
+Be careful! For a reason still unknown to me, github displays only the first 10 lines of that file in the normal view. You can see the whole file in the 'Raw view' or, obviously, cloning my repo.
+
 
 Code generation
 ---------------
