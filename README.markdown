@@ -8,7 +8,7 @@ And I also keep updated this README to explain in detail every configuration I h
 How to install
 --------------
 
-If you find my configurations useful, you just need to copy the file I share as "home.vimrc" to your home folder with the name ".vimrc".
+If you find my configurations useful, you just need to copy the file I share as "home.vimrc.txt" to your home folder with the name ".vimrc".
 
 
 Code generation
