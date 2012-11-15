@@ -101,7 +101,7 @@ With this shortcut, you now have the choice to run the command :W (instead of no
 My folding configuration
 ------------------------
 
-Folding is a very useful thing, but I think there's no perfect configuration for it. You have several folding methods available for you and the best choice depends on your way to work.
+Folding is a very useful thing, but I think there's no perfect configuration for it. You have several folding methods available for you and the best choice depends on your way of working.
 
 I show here my configuration and why I use it.
 
