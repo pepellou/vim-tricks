@@ -18,7 +18,7 @@ Code generation
 
 As an example, the following code adds a keymap for Ctrl+F which writes PHP code for getters and setters for a previously yanked variable name:
 
-	map <C-F> o	public function getpb3l~A(	) {		return $this->;Po	}	public function setpb3l~A(		$po	) {		$this->pA = $pA;	}
+	map <C-F> o	public function get^[pb3l~A(^M	) {^M		return $this->;^[Po	}^M^M	public function set^[pb3l~A(^M		$^[po	) {^M		$this->^[pA = $^[pA;^M	}^M^[
 
 For instance, if you yank the word 'example', pressing Ctrl+F will generate the following code:
 
@@ -66,7 +66,7 @@ This is my first try on contextual selection, the only Eclipse feature I really 
 
 With this simple shortcut:
 
-	map <C-k> ?{v%
+	map <C-k> ?{\^Mv%
 
 Each time you press Ctrl+K, you'll visually select the next-upper code block enclosed by { }
 Of course, since the '%' can also apply to [ ] and ( ), I guess it's very easy to make this command work with those.
